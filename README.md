@@ -62,8 +62,6 @@ It extends beyond the specific problem addressed in this project, with numerous 
 ## Present Findings
 
 
-<img width="515" height="516" alt="image" src="https://github.com/user-attachments/assets/aed664ea-8c8f-4f3f-91fc-cafe9de972b7" />
+<img width="515" height="516" alt="image" src="https://github.com/user-attachments/assets/aaa46951-6516-4986-a92d-730372dfba36" />
 
-
-<img width="515" height="516" alt="image" src="https://github.com/user-attachments/assets/5ba0fc47-89c8-4520-a3b0-da6a22aac1ac" />
 
