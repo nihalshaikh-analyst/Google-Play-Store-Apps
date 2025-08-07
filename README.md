@@ -13,3 +13,14 @@ out that the iTunes App Store page deploys a nicely indexed appendix-like struct
 easy web scraping. On the other hand, Google Play Store uses sophisticated modern-day techniques (like
 dynamic page load) using JQuery making scraping more challenging.
 
+
+[Dirty Dataset](https://github.com/nihalshaikh-analyst/Google-Play-Store-Apps/blob/main/googleplaystore_user_reviews.csv)
+
+---------------------------------------------------------------------------------------------------------------
+
+[Clean Dataset](https://github.com/nihalshaikh-analyst/Google-Play-Store-Apps/blob/main/googleplaystore.csv)
+
+
+
+### The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market   
+
