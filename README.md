@@ -76,6 +76,20 @@ dynamic page load) using JQuery making scraping more challenging.
 
 
 
+## Next step
+
+Consider exploring further:
+
+● Sentiment analysis of user reviews.
+
+● Time series analysis of app updates and their impact on ratings.
+
+● Predictive modeling to forecast app ratings based on features.
+
+**"This project provides a foundational understanding of exploratory data analysis using
+real-world data from the Google Play Store."**
+
+
 ## Step by Step Process
 
 - Importing Libraries
