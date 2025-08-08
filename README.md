@@ -31,6 +31,13 @@ dynamic page load) using JQuery making scraping more challenging.
 ![playstore2](https://github.com/nihalshaikh-analyst/Google-Play-Store-Apps/blob/main/playstore2.png)
 
 
+
+## Jupyter Notebook
+
+[Notebook](https://github.com/nihalshaikh-analyst/Google-Play-Store-Apps/blob/main/Google%20Play%20Store%20Apps.ipynb)
+
+
+
 ## Project Objective
 
 #### The goal of this project is to analyze the characteristics of apps on the Google Play Store, including their ratings, reviews, sizes, installation counts, and more. The analysis will help identify trends, outliers, and patterns in the app market.
